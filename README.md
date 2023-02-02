@@ -1,8 +1,9 @@
 <h2>DesafiosCodigoJava</h2>
 
 <h3> Problemas Propostos </h3>
-<p> 1) Observe o trecho de código abaixo:
 ```
+<p> 1) Observe o trecho de código abaixo:
+
 int INDICE = 13, SOMA = 0, K = 0;
 
 enquanto K < INDICE faça
@@ -10,9 +11,8 @@ enquanto K < INDICE faça
 K = K + 1;
 SOMA = SOMA + K;
 }
-
 imprimir(SOMA);
-```
+
 Ao final do processamento, qual será o valor da variável SOMA?
 
 </p>
@@ -49,6 +49,9 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;</p>
+```
+
+
 ### Resolução de acordo com problema:
 *	1 - Soma
 *	2 - SequenciaFibonacci
